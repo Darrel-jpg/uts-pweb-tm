@@ -1,5 +1,5 @@
 <h1>📢 Penting!</h1>
-<p>Sebelumnya saya sudah mencoba deploy tetapi tidak bisa dan saya sudah mencobanya berulang kali tetap hasilnya tidak bisa</p>
+<p>Sebelumnya saya sudah mencoba hosting website dan database tetapi tidak bisa dan saya sudah mencobanya berulang kali tetap hasilnya tidak bisa</p>
 <p>
   Proyek ini merupakan implementasi arsitektur <strong>Model-View-Controller (MVC)</strong> menggunakan <strong>PHP Native</strong>.<br>
   Aplikasi ini telah dikonfigurasi agar berjalan menggunakan <strong>Virtual Host (vhost)</strong> dengan domain lokal:
