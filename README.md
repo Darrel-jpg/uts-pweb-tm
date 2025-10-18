@@ -3,7 +3,7 @@
 <p>
   Proyek ini merupakan implementasi arsitektur <strong>Model-View-Controller (MVC)</strong> menggunakan <strong>PHP Native</strong>.<br>
   Aplikasi ini telah dikonfigurasi agar berjalan menggunakan <strong>Virtual Host (vhost)</strong> dengan domain lokal:
-  <code>uts-pweb.com</code>.
+  <code>uts-pweb.com</code>
 </p>
 
 <p>
